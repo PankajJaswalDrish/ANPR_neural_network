@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lableimg</folder>
+	<filename>2.jpg</filename>
+	<path>/home/pankaj/1A_Drish_Project/1. Drish Python Training/lableimg/2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>417</ymin>
+			<xmax>2195</xmax>
+			<ymax>1488</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1046.jpg</filename>
+	<path>/home/dr32/Desktop/ANPR/European_ANPR_System/Tensorflow/workspace/images/test/1046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>94</ymin>
+			<xmax>533</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
